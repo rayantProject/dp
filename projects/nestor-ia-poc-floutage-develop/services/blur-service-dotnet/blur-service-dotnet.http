@@ -1,0 +1,6 @@
+@blur_service_dotnet_HostAddress = http://localhost:5050
+
+POST {{blur_service_dotnet_HostAddress}}/predict
+Accept: application/json
+
+###

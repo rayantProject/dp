@@ -1,0 +1,47 @@
+{
+  "name": "nestor-ia-poc-floutage",
+  "packageManager": "yarn@4.7.0",
+  "devDependencies": {
+    "@commitlint/cli": "^19.7.1",
+    "@commitlint/config-conventional": "^19.7.1",
+    "@types/node": "^22.13.5",
+    "concurrently": "^9.1.2",
+    "conventional-changelog-atom": "^5.0.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.4.3",
+    "prettier": "^3.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "workspaces": [
+    "apps/*",
+    "services/*"
+  ],
+  "scripts": {
+    "prepare": "husky",
+    "setup": "ts-node ./scripts/pythonSetup.ts",
+    "service:flask": "ts-node ./scripts/serviceFlask.ts",
+    "service:dotnet": "ts-node ./scripts/serviceDotnet.ts",
+    "client:next": "yarn workspace client dev",
+    "desktop:next": "yarn workspace client tauri dev",
+    "lint:black": "ts-node ./scripts/lintPython.ts",
+    "lint:prettier": "prettier .",
+    "lint:dotnet": "dotnet format ./services/blur-service-dotnet/blur-service-dotnet.csproj",
+    "dev:flask": "concurrently -k -n service,client -c red,blue \"yarn service:flask\" \"yarn client:next\"",
+    "dev:dotnet": "concurrently -k -n service,client -c red,blue \"yarn service:dotnet\" \"yarn client:next\"",
+    "model:export_onnx": "ts-node ./scripts/modelExportOnnx.ts",
+    "deploy:flask": "ts-node ./scripts/deployServiceFlask.ts",
+    "deploy:dotnet": "ts-node ./scripts/deployServiceDotnet.ts"
+  },
+  "lint-staged": {
+    "**/*.ts?(x)": [
+      "prettier --write"
+    ],
+    "**/*.py": [
+      "black"
+    ],
+    "**/*.{json,md}": [
+      "prettier --write"
+    ]
+  }
+}

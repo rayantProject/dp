@@ -1,0 +1,52 @@
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Swap the comments on the following lines if you wish to use zero-installs
+# In that case, don't forget to run `yarn config set enableGlobalCache false`!
+# Documentation here: https://yarnpkg.com/features/caching#zero-installs
+
+.pnp.*
+**/node_modules
+**/.venv
+**/__pycache__
+
+
+**/.DS_Store
+**/._*
+**/.AppleDouble
+**/*.pt
+**/*.onnx
+.env
+**/.next
+
+
+build/
+
+bin/
+obj/
+
+*.user
+*.suo
+*.sln.docstates
+
+*.log
+*.tlog
+*.pdb
+
+# .env
+# .env.local
+# appsettings.Development.json
+# appsettings.Production.json
+# appsettings.Test.json
+
+.idea/
+
+*.vs/
+
+.idea/
+*.sln.iml
+services/blur-service-dotnet/.config/

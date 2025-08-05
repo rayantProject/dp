@@ -1,0 +1,42 @@
+{
+  "models": {
+    "path": "assets/models",
+    "FaceModel": "yolov11m-face.pt",
+    "PlateModel": "license_plate_detector.pt",
+    "tasks": {
+      "FaceModel": "detect",
+      "PlateModel": "detect"
+    }
+  },
+  "modelsOnnxExport": {
+    "output": "assets/models",
+    "format": "onnx"
+  },
+  "buildProcessAPI": {
+    "buildPath": "build",
+    "blurServiceFlask": {
+      "outputName": "blur-service-flask"
+    },
+    "blurServiceDotnet": {
+      "outputName": "blur-service-dotnet"
+    }
+  },
+  "blurServiceFlask": {
+    "port": 5050
+  },
+  "blurServiceDotnet": {
+    "faceModel": {
+      "confidence": 0.25,
+      "IOU": 0.7
+    },
+    "plateModel": {
+      "confidence": 0.25,
+      "IOU": 0.5
+    },
+    "imageQuality": 100,
+    "imageFormat": "png",
+    "blurOpacity": 128,
+    "blurBaseSigma": 5,
+    "blurBrightnessFactor": 10
+  }
+}

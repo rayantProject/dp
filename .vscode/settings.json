@@ -1,0 +1,13 @@
+{
+    "emmet.includeLanguages": {
+        "markdown": "html"
+    },
+    "[markdown]": {
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true  ,
+        "strings": true
+    },
+},
+"emmet.showSuggestionsAsSnippets": true
+}
