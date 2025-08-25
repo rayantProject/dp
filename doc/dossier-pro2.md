@@ -1,14 +1,87 @@
-# II. Valorisation des compétences
+# Dossier Professionnel
 
-## A. Description des projets
+## I. Présentation de l'environnement de travail
 
-### 1. IA de floutage pour le projet Nestor
+### A. Présentation de l'entreprise
 
-#### 1.1 Objectifs du projet
+#### 1. Le groupe Econocom : acteur majeur de la transformation numérique
+
+**Econocom** est un groupe européen majeur du numérique fondé en 1974 par Jean-Louis Bouchard (sous le nom « Europe Computer Systèmes »). Spécialisé dans les services liés à la transformation numérique, il s'est développé autour d'un modèle original couvrant l'équipement IT, les services et le financement associés. Cotée en bourse, l'entreprise se présente comme « **la première entreprise générale du digital en Europe** », capable de prendre en charge l'ensemble de la chaîne de valeur d'un projet numérique (matériel informatique, prestations de service et financement).
+
+Aujourd'hui Econocom revendique environ **2,7 milliards d'euros de chiffre d'affaires** (2024) et **8 450 collaborateurs** dans le monde, avec un réseau présent dans **16 pays**. Le groupe intervient dans de nombreux secteurs d'activité (éducation, santé, industrie, distribution, énergie, etc.), ce qui lui confère un positionnement transversal sur le marché du numérique et de l'informatique d'entreprise. En France, par exemple, Econocom est reconnu comme **1er infogéreur d'environnements utilisateurs** en 2022, mobilisant quelque 5 600 salariés dédiés aux services IT, ce qui illustre sa taille et son importance sur le segment des services numériques.
+
+#### 2. L'agence Econocom de Lyon-Villeurbanne
+
+Au sein de ce groupe, l'**agence Lyon** (basée à Villeurbanne) joue le rôle d'antenne régionale. Elle dessert le bassin d'entreprises et d'administrations de la métropole lyonnaise, en relais des orientations nationales du groupe. Selon le site officiel, l'adresse de cette agence est « **13 bis avenue Albert Einstein, 69100 Villeurbanne** », témoignant de son ancrage local. Cette filiale régionale fait donc partie du maillage territorial d'Econocom en France, permettant au groupe de maintenir une proximité de service et de conseil auprès de ses clients. Elle opère dans la continuité des activités du groupe, en appliquant localement la stratégie nationale de transformation digitale et en apportant des solutions adaptées aux enjeux des entreprises régionales.
+
+#### 3. Environnement technologique et domaines d'intervention
+
+L'agence de Villeurbanne s'inscrit dans l'écosystème technologique d'Econocom, caractérisé par un vaste panel d'expertises IT. La documentation d'Econocom détaille **quatre grands domaines d'intervention principaux** :
+
+- **Environnements utilisateurs (Digital Workplace)** : gestion et support du parc informatique des utilisateurs finaux (postes de travail, mobilité, assistances bureautique), afin d'assurer une expérience intégrée et fluide.
+
+- **Cloud et Infrastructures hybrides** : conception, déploiement et exploitation d'infrastructures IT modernes, incluant les solutions cloud (privé, public et hybrides), les datacenters et la mise en réseau.
+
+- **Applications et données** : modernisation des applications métier, développement de nouvelles solutions logicielles et valorisation des données (big data, BI, IA), afin d'accélérer la transformation numérique des processus.
+
+- **Cybersécurité** : mise en place de dispositifs de sécurité et de conformité pour anticiper les risques et protéger les systèmes d'information et les données sensibles contre les menaces (audit, pare-feu, SOC, etc.).
+
+Ces domaines reflètent l'offre de services d'Econocom : l'agence lyonnaise de Villeurbanne assure à la fois l'**infogérance** (support et maintenance du système d'information), la **gestion de parc** (asset management), ainsi que des projets de migration vers le cloud et de renforcement de la sécurité. Par exemple, Econocom se positionne comme un leader dans l'infogérance des environnements utilisateurs en France, ce qui signifie que le site de Villeurbanne est très probablement engagé dans des missions de support utilisateurs, de déploiement de postes et de maintenance du parc informatique.
+
+#### 4. Enjeux SI et technologiques du site de Villeurbanne
+
+Le site de Villeurbanne doit relever plusieurs enjeux typiques de la transformation digitale actuelle :
+
+- **Modernisation des systèmes d'information** et du parc informatique : transition vers des environnements hybrides (intégration de cloud public/privé), déploiement de solutions de productivité mobiles et distantes, et optimisation de l'infrastructure réseau pour garantir performance et fiabilité.
+
+- **Cybersécurité** : mise en œuvre des bonnes pratiques et outils de protection (gestion des accès, cryptage, supervision continue) pour sécuriser les infrastructures, d'autant plus qu'Econocom met l'accent sur la sécurité dans ses offres.
+
+- **Numérique responsable** : le groupe affiche un engagement fort en matière de numérique responsable et se présente comme "**pionnier de l'économie circulaire du numérique**" avec une démarche de réduction de son empreinte carbone. Concrètement, cela se traduit par la gestion durable du cycle de vie des équipements (réemploi, reconditionnement, recyclage) et l'optimisation énergétique des data centers.
+
+- **Mobilité et agilité du travail** : avec l'essor du télétravail et des nouveaux usages, le site accompagne les clients dans le déploiement de solutions collaboratives sécurisées (VPN, accès distant, collaboration cloud) et dans l'évolution vers des modes de travail plus flexibles.
+
+#### 5. Organisation interne et missions
+
+Au sein de l'agence Econocom de Lyon (Villeurbanne), l'organisation interne se structure généralement autour de plusieurs pôles : un **pôle commercial** (avant-vente et gestion de comptes clients), un **pôle support/maintenance** (techniques et exploitations), et un **pôle administratif**. La section « Témoignages collaborateurs » du site groupe illustre la diversité des profils présents à Lyon – on y retrouve par exemple des techniciens de support (« gestionnaire SAV Helpdesk ») et un responsable d'exploitation (« manager des services Surveillance et Exploitation »).
+
+Parfait, ta partie **Présentation de l’entreprise** est déjà très solide 👌
+
+Pour l’enrichir avec ton **client Grand Lyon** et la **cartographie de son SI**, je te propose d’ajouter une sous-section spécifique après ton point 5 « Organisation interne et missions ». Cela montrera bien que, dans le cadre d’Econocom Villeurbanne, tu as été intégré à une équipe en charge d’un client stratégique, et que tu maîtrises son contexte. Voici un texte que tu pourrais insérer :
+
+#### 6. Le client Grand Lyon et son système d’information
+
+Dans le cadre de mon expérience au sein d’Econocom Villeurbanne, j’ai intégré l’équipe en charge de la gestion du système d’information du **Grand Lyon**, l’un des clients majeurs de l’agence. Le Grand Lyon, ou Métropole de Lyon, est une collectivité territoriale singulière en France : elle exerce à la fois les compétences d’une communauté urbaine et celles d’un département, au service de plus de **1,4 million d’habitants** répartis sur 59 communes. Ses missions sont très diversifiées : aménagement urbain, mobilité et transports, logement et urbanisme, développement économique, solidarité et santé publique, environnement et transition écologique, culture, ainsi que les services numériques aux citoyens.
+
+Pour soutenir ces politiques publiques, la Métropole s’appuie sur une **Direction de l’Innovation Numérique et des Systèmes d’Information (DINSI)**, qui constitue la cheville ouvrière du système d’information métropolitain. L’organigramme de la DINSI met en évidence une organisation structurée autour de plusieurs grands pôles :
+
+* **Pôle Architecture et Urbanisation du SI**, chargé de définir les normes, référentiels et principes d’urbanisation.
+* **Pôle Usages numériques**, qui développe et maintient les applications métiers, les portails citoyens et les services digitaux.
+* **Pôle Données et Géomatique**, spécialisé dans la gestion et la valorisation des données territoriales (statistiques, cartographie SIG, open data).
+* **Pôle Infrastructures et Réseaux**, garant de l’exploitation des datacenters, de la connectivité et des services cloud.
+* **Pôle Sécurité des Systèmes d’Information**, qui veille à la conformité, à la résilience et à la cybersécurité du patrimoine numérique.
+* **Pôle Support et Digital Workplace**, en charge des environnements utilisateurs (postes de travail, outils collaboratifs, mobilité).
+
+![figure1: Cartographie complète du SI du Grand Lyon](../assets/cartographie_complète_du_SI_du_GrandLyon.svg)
+
+Cette organisation illustre bien la cartographie du SI du Grand Lyon, qui peut être décrite selon les quatre niveaux classiques :
+
+* **Niveau métier** : répondre aux besoins des politiques publiques métropolitaines (mobilité, urbanisme, solidarité, environnement, économie).
+* **Niveau fonctionnel** : structurer les grands domaines de services (applications métiers, infrastructures, données, sécurité, support utilisateurs).
+* **Niveau applicatif** : gérer un patrimoine applicatif riche, incluant les logiciels de gestion financière et RH, les outils d’urbanisme et de mobilité, les portails citoyens, les systèmes d’information géographique (SIG), et des plateformes de données décisionnelles.
+* **Niveau infrastructure** : exploiter des datacenters hybrides, des réseaux sécurisés interconnectant les sites métropolitains, des environnements cloud, ainsi qu’un parc utilisateurs de plusieurs milliers de postes, assorti de mécanismes de supervision, de sauvegarde et de continuité d’activité.
+
+Travailler dans ce contexte a constitué une expérience particulièrement formatrice. D’une part, cela m’a permis de comprendre la complexité d’un SI de grande collectivité, marqué par la diversité des métiers et la multiplicité des applications. D’autre part, cela m’a confronté à des enjeux stratégiques majeurs : **interopérabilité des systèmes, gouvernance des données, cybersécurité, Green IT, continuité des services publics**. L’équipe Econocom, intégrée dans ce dispositif, joue un rôle de partenaire clé en accompagnant la DINSI dans l’exploitation, la sécurisation et l’évolution de son système d’information.
+
+#### 7. IA de floutage pour le projet Nestor
+
+##### 1.1 Objectifs du projet
+
+Ce projet de preuve de concept (POC) a été réalisé dans le cadre de ma mission au sein d’Econocom Villeurbanne, prestataire de services numériques, pour le compte de son client la Métropole de Lyon (Grand Lyon). Ce dernier constitue une collectivité territoriale majeure en France, regroupant 59 communes et plus de 1,4 million d’habitants. Sa Direction de l’Innovation Numérique et des Systèmes d’Information (DINSI) pilote un système d’information complexe destiné à accompagner de multiples missions : urbanisme, mobilité, action sociale, environnement, développement économique et services aux citoyens.
+Dans ce contexte, la Métropole est confrontée à des besoins croissants en matière de protection des données personnelles et de conformité réglementaire (RGPD, droit à l’image). La gestion de photos et de vidéos issues de dispositifs urbains (événements publics, transport, aménagement) pose en effet la question de l’anonymisation des visages et des plaques d’immatriculation avant diffusion ou exploitation.
 
 Le projet **Nestor IA – POC Floutage** a pour vocation de démontrer la faisabilité d'un **système de floutage automatique d'images** par intelligence artificielle. Il s'agit d'une *preuve de concept* visant à **détecter puis flouter** des éléments sensibles sur des images, en particulier les *visages humains* et les *plaques d'immatriculation*, de manière entièrement automatisée. L'outil répond à un besoin de **protection de la vie privée** et de *conformité réglementaire* (par exemple, anonymisation de personnes ou de données visuelles dans des photos/vidéos). Ce POC s'inscrit dans un contexte d'**évaluation technologique** : il permet de comparer **deux approches techniques** (une implémentation en *Python* et une en *.NET*) pour intégrer cette fonctionnalité, afin d'orienter les choix futurs selon les performances et la facilité d'intégration dans le système d'information cible.
 
-#### 1.2 Fonctionnalités principales
+##### 1.2 Fonctionnalités principales
 
 - **Chargement et traitement d'images**
 
@@ -34,7 +107,7 @@ Le client web affiche le **résultat** (image floutée ou annotée) à l'écran.
 
 Le POC offre **deux implémentations back-end interchangeables** (une en *Python* et une en *C#/.NET*) sans changer le fonctionnement côté utilisateur. L'application web interagit de la même façon avec l'un ou l'autre service. Cela permet de tester les deux technologies offrant les mêmes fonctionnalités de floutage, et de **comparer leur performance** et comportement dans des conditions identiques.
 
-#### 1.3 Architecture technique
+##### 1.3 Architecture technique
 
 - **Frontend web (Next.js)**
 
@@ -64,9 +137,11 @@ Plusieurs **scripts Yarn/TypeScript** contribuent à automatiser le workflow tec
 
 Quel que soit le backend utilisé, le **déroulement** est similaire. L'utilisateur charge une image via l'interface Next.js, celle-ci est envoyée au serveur (Flask ou .NET) via une *requête API*. Le serveur charge les **modèles de détection** de visage et de plaque (dont les chemins sont définis dans la config), puis exécute une *inference* pour trouver les coordonnées des zones à flouter. Une fois les zones identifiées, le serveur applique un **floutage** sur ces régions de l'image – en pratique un *flou pixelisé* ou *gaussien* est appliqué aux rectangles englobant les visages et/ou plaques détectés. L'image résultante est ensuite renvoyée au front-end, qui l'affiche à l'écran pour l'utilisateur. Ce **workflow complet** – de la soumission de l'image au retour de l'image floutée – illustre la chaîne de traitement mise en place par le POC.
 
-### 2. Analyse des données électorales
+### B. Description des projets MSPR
 
-### 2.1 Objectifs du projet
+#### 1. Analyse des données électorales
+
+#### 1.1 Objectifs du projet
 
 Le projet **analyse\_data\_election** a pour vocation de développer un **système complet d’analyse et de visualisation des données électorales françaises**. Son ambition est de transformer des données brutes issues de sources publiques (Ministère de l’Intérieur, INSEE, etc.) en **informations exploitables** pour divers acteurs : journalistes, analystes politiques, citoyens ou encore chercheurs.
 
@@ -74,8 +149,7 @@ Le département du Rhône a servi de **terrain d’expérimentation**. Sa divers
 
 Enfin, le projet vise également à explorer des **approches prédictives** grâce aux réseaux de neurones artificiels. Ces modèles permettent de prédire les résultats futurs en fonction des tendances observées, tout en respectant les contraintes éthiques et légales liées au **RGPD** (anonymisation, conservation limitée, usage strictement analytique).
 
-
-### 2.2 Fonctionnalités principales
+#### 1.2 Fonctionnalités principales
 
 Le système offre un ensemble de fonctionnalités répondant aux besoins d’analyse exploratoire et décisionnelle :
 
@@ -111,7 +185,7 @@ Le système offre un ensemble de fonctionnalités répondant aux besoins d’ana
 
   Le système applique les principes de protection des données : anonymisation, usage limité à l’analyse, conservation restreinte et sécurisation.
 
-### 2.3 Architecture technique
+#### 1.3 Architecture technique
 
 Le projet repose sur une architecture modulaire pensée pour la **scalabilité et la reproductibilité** :
 
@@ -143,13 +217,13 @@ Le projet repose sur une architecture modulaire pensée pour la **scalabilité e
 
   Le système implémente une **authentification sécurisée**, une gestion des autorisations et des optimisations (cache, pagination, compression) pour garantir des temps de réponse rapides, même avec de gros volumes de données.
 
-### 3. Optimisation et amélioration du Système d'Information de K-ElectroniK
+#### 2. Optimisation et amélioration du Système d'Information de K-ElectroniK
 
-#### 3.1 Objectifs du projet
+##### 2.1 Objectifs du projet
 
 Nous avons entrepris un projet visant à **optimiser et moderniser** le Système d'Information (SI) existant de **K-ElectroniK**, une PME française en pleine *expansion internationale*. L'entreprise fait face à plusieurs enjeux simultanés : l'intégration d'une **filiale espagnole** récemment acquise, la nécessité de remplacer ou mettre à jour des *outils numériques vieillissants*, le renforcement de la **sécurité informatique** et de la *gouvernance du SI*, ainsi que la prise en compte des exigences de **responsabilité sociétale** (Green IT/RSE). Dans ce contexte, un **plan de transformation du SI** a été validé par la direction, et notre équipe a été mandatée pour réaliser un *diagnostic complet* de l'existant, proposer des **améliorations concrètes** et accompagner K-ElectroniK vers une meilleure *maturité numérique*, en alignant les évolutions du SI sur la **stratégie globale** de l'entreprise. L'objectif final du projet est donc de doter K-ElectroniK d'un **SI unifié, fiable et évolutif**, capable de soutenir sa croissance et d'améliorer son *efficacité opérationnelle* tout en réduisant les risques (pannes, failles de sécurité) et en répondant aux nouvelles attentes des clients et partenaires.
 
-#### 3.2 Fonctionnalités principales
+##### 2.2 Fonctionnalités principales
 
 Pour répondre aux besoins métiers recensés et aux problèmes identifiés, nous avons défini les **fonctionnalités clés** que le nouveau SI ou les évolutions apportées doivent offrir :
 
@@ -177,7 +251,7 @@ Mise en œuvre d'un **portail centralisé** pour le support informatique interne
 
 Introduction de pratiques d'**informatique responsable** afin de minimiser l'*empreinte carbone* du SI (par exemple en optimisant la consommation énergétique des serveurs et en allongeant le cycle de vie du matériel). Nous proposons également de suivre des **indicateurs RSE** liés au numérique (*bilan carbone du SI, taux de recyclage du matériel*, etc.) et de sensibiliser les utilisateurs aux *éco-gestes numériques*. Ces fonctionnalités transverses visent à aligner le SI sur les valeurs de **développement durable** de l'entreprise et à répondre aux attentes croissantes des clients en la matière.
 
-#### 3.3 Architecture technique
+##### 2.3 Architecture technique
 
 D'un point de vue technique, l'architecture du SI de K-ElectroniK évolue d'un **environnement hétérogène** vers une infrastructure *unifiée, moderne et sécurisée*. À l'état initial, le SI comportait un **mélange disparate** de technologies et d'applications : certaines fonctions critiques reposent sur des outils développés en interne il y a plus de 10 ans (ex : un logiciel maison *"GestComs"* pour les achats, un programme sur mesure de 2005 pour piloter la production), tandis que d'autres s'appuient sur des **solutions du marché** plus récentes (par ex. **SmartRH** en SaaS pour la gestion RH, **Cegid** pour la comptabilité/finance, **FreshSales CRM** utilisé de façon partielle pour le suivi commercial, ou encore **PrestaShop** pour le site e-commerce).
 
@@ -187,13 +261,13 @@ Sur le plan de l'infrastructure, nous recommandons l'**unification du réseau** 
 
 Enfin, l'architecture cible intègre des **outils de supervision** et de pilotage du SI, afin de mesurer la performance et d'appuyer la *gouvernance technique*. Nous prévoyons par exemple de déployer des **tableaux de bord dynamiques** (via des solutions telles que **Microsoft Power BI** ou **Grafana**) permettant de visualiser en temps réel les indicateurs du SI (*état des serveurs, tickets en cours, niveaux de service*, etc.). Ces tableaux de bord offriront un **pilotage réactif** du SI, en aidant l'équipe informatique à détecter proactivement les anomalies et à justifier des ressources ou investissements sur des données objectives. L'ensemble du code, des configurations et des documents produits sera géré de façon professionnelle (*gestion de version, documentation technique, segmentation en modules clairs*) afin de faciliter la maintenance et les futures évolutions du système. Ce **socle technique modernisé** permettra à K-ElectroniK de disposer d'un SI *agile, sécurisé* et aligné sur ses processus métier, tout en étant préparé pour les défis à venir.
 
-### 4. Projet Cofrap
+#### 3. Projet Cofrap
 
-#### 4.1 Contexte et finalité générale
+##### 3.1 Contexte et finalité générale
 
 **Cofrap** (Compagnie Française de Réalisation d'Applicatifs Professionnels) est une entreprise spécialisée dans les **solutions logicielles de gestion d'entreprise**, concurrente de COGIP sur les *ERP et applications web métier*. Face à la croissance de sa base d'utilisateurs et à des **compromissions récurrentes de comptes cloud** (liées à des mots de passe faibles et à la non-adoption de la 2FA), Cofrap a décidé de **moderniser son processus d'inscription et d'authentification**. L'objectif est de mettre en place une **infrastructure cloud-native et serverless** (sur Kubernetes) assurant la génération sécurisée de mots de passe complexes, l'activation systématique de la *double authentification (2FA TOTP)* et la distribution des identifiants via **QR codes**. Ce projet (PoC) vise ainsi à **automatiser et centraliser** la gestion des comptes utilisateurs tout en répondant aux exigences de **sécurité, de performance et de scalabilité** de Cofrap.
 
-#### 4.2 Objectifs du projet
+##### 3.2 Objectifs du projet
 
 - **Sécurité renforcée**
 
@@ -217,7 +291,7 @@ Offrir une **interface simple** permettant de créer un compte utilisateur (si i
 
 Ces objectifs métier s'inscrivent dans les enjeux de Cofrap : renforcer la **sécurité des accès cloud**, réduire les *coûts de support* en automatisant la gestion des comptes, et optimiser les ressources techniques via une architecture **serverless (OpenFaaS)** *"scale-to-zero"*.
 
-#### 4.3 Fonctionnalités principales
+##### 3.3 Fonctionnalités principales
 
 - **Création de compte sécurisé**
 
@@ -239,7 +313,7 @@ Activation obligatoire de l'**authentification TOTP** à chaque connexion, avec 
 
 Pages web (création de compte, affichage du QR code, formulaire de connexion) permettant à l'utilisateur de déclencher les **appels API** adéquats (via *OpenFaaS Gateway*).
 
-#### 4.4 Architecture technique
+##### 3.4 Architecture technique
 
 - **Frontend**
 
@@ -263,15 +337,15 @@ Application web en **React/HTML** (monopage) servant d'interface utilisateur. Le
 
 **Authentification** : l'utilisateur soumet son login, mot de passe et code TOTP au front, qui appelle la fonction d'authentification. Celle-ci vérifie le mot de passe, le code 2FA et la date d'expiration du compte. Si l'utilisateur est expiré, elle renvoie un statut *« compte expiré »*, déclenchant automatiquement le front à redéclencher la création de compte (renouvellement des identifiants).
 
-#### 4.5 Méthodologie de travail
+##### 3.5 Méthodologie de travail
 
 Le projet a été mené en mode **agile**, avec un découpage itératif en *sprints courts* (1 semaine environ) et des rituels **Scrum** simplifiés. Chaque membre disposait de **rôles définis** (*Scrum Master, Product Owner, développeurs backend/frontend, DevOps, référent qualité/documentation*). Les tâches (*user stories* et tickets) ont été gérées via un **Kanban (Jira)** et un planning de projet (*diagramme de Gantt*). L'équipe a utilisé **GitHub** pour le code (branches, pull requests), ainsi que *Jira/Slack/GitHub* comme tableau Kanban partagé. Des **points quotidiens** (*stand-up*) permettaient de faire le suivi et de réaffecter rapidement les tâches. Les outils numériques incluaient également *Google Meet/Zoom* pour les réunions, *Google Drive/Wiki* pour la documentation, et **Slack** pour la communication asynchrone. Cette organisation agile, alliée aux sprints planifiés et à la répartition claire des responsabilités, a assuré la **traçabilité du projet** et une *livraison progressive* des fonctionnalités.
 
-#### 4.6 Particularités humaines et managériales
+##### 3.6 Particularités humaines et managériales
 
 Le projet a été réalisé dans un **environnement distancié et multiculturel**. L'équipe a majoritairement travaillé en *télétravail*, maintenant une communication fluide par les **outils collaboratifs** (*Slack, Google Meet, Zoom*) et des rituels réguliers (*daily meetings, revues de sprint*). Étant composée de membres d'horizons culturels variés, l'équipe a choisi l'**anglais technique** comme langue de travail pour garantir l'*inclusion linguistique* et une compréhension commune. L'**accessibilité** a également été prise en compte : l'interface utilisateur a été conçue avec des principes d'accessibilité (*navigation clavier, éléments ARIA, contraste adapté*) pour les personnes à mobilité réduite ou déficientes visuelles. Sur le plan managérial, un **climat de travail bienveillant** a été cultivé, avec un équilibre entre performance et bien-être. L'équipe a veillé à adapter les charges de travail, offrir un cadre flexible et soutenir les membres en cas de blocages, favorisant ainsi la **motivation et la créativité** de chacun.
 
-#### 4.7 Bilan du projet
+##### 3.7 Bilan du projet
 
 Au terme du **PoC Cofrap**, l'équipe a nettement progressé techniquement : elle maîtrise désormais le **déploiement Kubernetes** (OrbStack), la *programmation serverless OpenFaaS*, ainsi que le développement **Node.js et MongoDB** dans un contexte *cloud-native*. Les membres ont gagné en **autonomie** (gestion de leur temps, auto-organisation) et développé des *soft skills* en communication et résolution de problèmes. Le projet a démontré la capacité à concevoir une **architecture robuste et modulable**, répondant aux exigences de sécurité (*chiffrement, OTP, QR code*) en environnement professionnel.
 
@@ -279,11 +353,13 @@ Plusieurs **difficultés** ont été rencontrées (prises en main de la CI/CD Op
 
 En termes d'**impact pour l'entreprise**, ce Proof of Concept constitue une *base solide* pour un déploiement ultérieur sur une infrastructure cloud publique ou hybride. Il répond directement au **besoin métier** : sécuriser les accès cloud de Cofrap, automatiser la gestion des identifiants et diminuer les coûts de support. La solution modulaire pourra être étendue (intégration à un SSO, montée en charge, etc.) et prouve que l'équipe possède les **compétences techniques et organisationnelles** attendues d'un expert SI.
 
-## B. Analyse des compétences par bloc de certification
+## II. Valorisation des compétences
 
-### 1. Analyser et définir la stratégie d'un système d'information
+### B. Analyse des compétences par bloc de certification
 
-#### 1.1 Description des compétences visées
+#### 1. Analyser et définir la stratégie d'un système d'information
+
+##### 1.1 Description des compétences visées
 
 - **Mettre en place une veille technologique**
 
@@ -329,7 +405,7 @@ Nous intégrons dans la stratégie du système d'information des indicateurs li�
 
 Enfin, nous appliquons les composants du Business Process Management (BPM) pour assurer le suivi du système d'information existant. Grâce à des outils de pilotage des flux et de gestion des processus, nous pouvons suivre en continu la réalisation des activités et proposer des améliorations visant à accroître la performance et la fiabilité du SI.
 
-#### 1.2 Mise en œuvre des compétences à travers les projets professionnels
+##### 1.2 Mise en œuvre des compétences à travers les projets professionnels
 
 Dans la mise en pratique du **Bloc 1** de la certification RNCP35584, nous nous sommes appuyés principalement sur le projet d'**optimisation du système d'information** (SI) de la PME **K-ElectroniK**, tout en citant également les projets *Cofrap* ou *Nestor IA* à titre illustratif. Ce projet visait à **aligner le SI** sur la stratégie de croissance de K-ElectroniK (par exemple le déploiement international d'un nouveau CRM pour soutenir les ventes). Conformément aux compétences requises, l'**analyse stratégique** a été la première étape. L'objectif était d'« élaborer la stratégie informatique de l'entreprise en analysant les objectifs et la stratégie générale » de K‑ElectroniK pour proposer des **évolutions du SI** en cohérence avec son développement. Cette démarche s'inscrit dans l'**alignement stratégique**, un levier essentiel de la performance d'entreprise : un SI bien aligné « soutient et renforce la performance » et garantit que les *investissements IT* sont en phase avec les **priorités métier**.
 
@@ -338,6 +414,8 @@ Dans la mise en pratique du **Bloc 1** de la certification RNCP35584, nous nous 
 Après cette phase stratégique, nous avons réalisé un **diagnostic complet** du SI existant. Celui-ci a débuté par une **cartographie multi-niveaux** (*métier, applicatif, infrastructure*) de l'organisation et de son système d'information. Cette démarche d'*urbanisation du SI* vise à « identifier l'ensemble des éléments du SI » pour disposer d'une **vision globale centralisée**. Nous avons ainsi modélisé les **processus métier clefs** en *BPMN* (par exemple la gestion des campagnes marketing) et représenté les applications et serveurs en **ArchiMate**. Cette base de connaissance du système a permis de mettre en lumière les **forces et faiblesses existantes** (redondances applicatives, obsolescence technique, etc.), comme le souligne Projexion : un diagnostic apporte un *regard extérieur* pour identifier les points forts et les déficiences du SI.
 
 En parallèle, un **dispositif de veille technologique** a été instauré. Nous avons surveillé les *innovations* (**IA, IoT, blockchain**…) pertinentes pour K-ElectroniK et élaboré des **rapports périodiques** à destination du comité de direction. Cette veille a alimenté les **recommandations stratégiques** en proposant, par exemple, l'intégration de solutions émergentes (*chatbots* pour le support client, *automatisation* des entrepôts) afin d'anticiper les besoins futurs de l'entreprise.
+
+
 
 - **Sécurité, gestion des risques et PSSI**
 
@@ -357,15 +435,15 @@ Les **livrables produits** sont variés : rapport d'audit et de diagnostic du SI
 
 En mobilisant ce large spectre de **compétences du Bloc 1**, j'ai consolidé ma *vision systémique* et *stratégique* du SI. Ce travail a permis à K-ElectroniK d'obtenir une **feuille de route SI cohérente**, sécurisée et durable, contribuant directement à sa performance opérationnelle. Comme le souligne Abraxio, la DSI est un élément clé de la **compétitivité de l'entreprise** : « une entreprise qui n'arrive pas à aligner ses technologies avec ses objectifs stratégiques peut perdre en compétitivité ». À l'inverse, un **alignement réussi** « maximise l'efficacité de l'IT tout en contribuant activement aux objectifs stratégiques ». Grâce à cette expérience, j'ai développé des **méthodes opérationnelles** (*cartographie d'urbanisme, diagnostic systémique, élaboration de PSSI, définition de KPI Lean/Green*) et renforcé ma capacité à dialoguer aux niveaux stratégiques (*CODIR*) comme opérationnels. Ces **apports professionnels** font désormais partie intégrante de ma pratique : je maîtrise la conduite de *diagnostics SI complexes* et la traduction de l'analyse stratégique en **projets technologiques** alignés sur la stratégie de l'entreprise.
 
-### 2 Manager un projet informatique avec agilité en collaboration avec les parties prenantes
+#### 2 Manager un projet informatique avec agilité en collaboration avec les parties prenantes
 
-#### 2.1 Description des compétences visées
+##### 2.1 Description des compétences visées
 
 - **Planifier le projet and allouer les ressources**
 
 Nous planifions l'ensemble des étapes d'un projet en définissant les **livrables attendus** et en répartissant les tâches selon les *compétences disponibles*. Cette organisation rigoureuse nous permet d'anticiper les **besoins humains, techniques et financiers**, de maîtriser les délais et de limiter les *risques de dérive*.
 
-- **Rédiger le cahier des charges et cadrer les besoins**
+- **Rédiger le cahier des charges and cadrer les besoins**
 
 Nous concevons et rédigeons les **cahiers des charges fonctionnels et techniques** afin de formaliser clairement les besoins métiers. Ces documents, *validés par les parties prenantes*, servent de référence pour guider l'équipe et garantir que les solutions développées répondent aux **attentes exprimées**.
 
@@ -445,9 +523,9 @@ Les **apports professionnels** de ce bloc ont été nombreux. La pratique du pro
 
 En conclusion, ce bloc de compétences nous a permis de consolider notre **maîtrise de la gestion de projet** informatique agile en mode collaboratif. Nous avons développé notre capacité à **planifier un projet complexe** (*rédaction de spécifications et backlog*), à **animer une équipe agile** (*tenue de cérémonies Scrum, suivi via tableaux Kanban*) et à faire collaborer efficacement l'ensemble des parties prenantes (internes comme la direction, externes comme les fournisseurs). Ces **expériences de projet** (notamment Cofrap, mais aussi *Nestor IA, K-ElectroniK*, etc.) ont ainsi contribué à notre professionnalisation : nous savons aujourd'hui tirer parti des **outils** (*JIRA, Trello, visio-conférence, documentation collaborative*) et des méthodes agiles pour délivrer de la valeur logicielle tout en gérant proactivement communication et conflits, ce qui est la marque d'un **manager de projet informatique agile confirmé**.
 
-### 3 Piloter l'informatique décisionnelle d'un système d'information (Big Data & BI)
+#### 3 Piloter l'informatique décisionnelle d'un système d'information (Big Data & BI)
 
-#### 3.1 Description des compétences visées
+##### 3.1 Description des compétences visées
 
 - **Recueillir les besoins en données des métiers**
 
@@ -485,7 +563,7 @@ Nous veillons en continu à la **qualité des données** en mettant en place des
 
 Nous appliquons les **politiques de sécurité** et de gouvernance définies par l'entreprise afin de protéger la *confidentialité* et l'*intégrité* des données. Nous veillons à la conformité avec les réglementations en vigueur, notamment le **RGPD**, en intégrant dès la conception des dispositifs de protection comme l'*anonymisation*, le *chiffrement* ou la *gestion fine des habilitations*.
 
-#### 3.2 Mise en œuvre des compétences à travers le projet "Analyse des données électorales"
+##### 3.2 Mise en œuvre des compétences à travers le projet "Analyse des données électorales"
 
 Dans le cadre du projet **« Analyse des données électorales »**, nous avons mobilisé l'ensemble des compétences du Bloc 3, axées sur le *Big Data* et la *Business Intelligence*. Ce projet, avait pour objectif de **collecter, traiter et analyser** des données massives sur les scrutins, de concevoir un système décisionnel dédié, puis de restituer les résultats sous forme d'*insights exploitables* pour la prise de décision. Concrètement, il s'agissait d'extraire des sources hétérogènes (résultats électoraux officiels, données socio-démographiques) un **jeu de données unique**, de l'organiser dans un entrepôt analytique, d'y appliquer des techniques de *modélisation statistique et prédictive*, puis de créer des visualisations claires pour les décideurs. Ce travail a ainsi couvert toutes les étapes classiques d'un projet BI : l'**ETL** (Extract, Transform, Load), la modélisation de données, la data visualisation, le contrôle qualité et la gouvernance des données (sécurité, respect du RGPD), en suivant les bonnes pratiques du métier.
 
@@ -525,9 +603,9 @@ Les livrables produits ont apporté une **valeur ajoutée concrète** à la maî
 
 En conclusion, ce projet a pleinement illustré l'importance et la portée des **compétences du Bloc 3**. Professionnellement, j'ai consolidé ma maîtrise des **processus Big Data/BI complets** – de la collecte à la restitution – et appris à orchestrer les différents outils (*ETL, SGBD, bibliothèques analytiques, plateformes BI*) au service de la décision. J'ai également développé mon sens critique quant aux **enjeux éthiques et réglementaires** (sécurité, RGPD) liés aux données sensibles. Sur le plan personnel, cette expérience m'a apporté de la rigueur et un esprit d'analyse renforcé : j'ai appris à documenter systématiquement chaque étape pour assurer la **traçabilité**, à collaborer efficacement en équipe, et à présenter des résultats de façon claire aux parties prenantes. À l'avenir, le domaine de la BI et des données continue d'évoluer rapidement : l'essor de l'**intelligence artificielle** et du *machine learning* exige de nouvelles compétences. La gouvernance des données y jouera un rôle crucial, car elle « garantit la qualité et la fiabilité des données exploitées par les algorithmes de machine learning… améliorant ainsi la précision et la fiabilité des résultats ». Je me tiens donc prêt à approfondir ces technologies (*analyse avancée, cloud data platforms*, etc.) afin de faire évoluer ma pratique professionnelle. Au final, l'ensemble des compétences du Bloc 3 mobilisées ici – du **Data Warehouse** à la *Data Science*, en passant par la datavisualisation et la gouvernance – a constitué un véritable **levier de valeur ajoutée**, aussi bien pour ce projet d'analyse électorale que pour mon parcours professionnel futur en BI/Data.
 
-### 4 Concevoir et développer des solutions applicatives métier et spécifiques
+#### 4 Concevoir et développer des solutions applicatives métier et spécifiques
 
-#### 4.1 Description des compétences visées
+##### 4.1 Description des compétences visées
 
 - **Recueillir et analyser les besoins métiers**
 
@@ -571,15 +649,15 @@ L'**analyse des besoins** a d'abord porté sur la *conformité RGPD* et la défi
 
 - **Back-end Python (Flask)** : implémente une API REST pour l'inférence du modèle de détection et l'édition d'images. Flask est un *micro-framework Python* léger et extensible, « conçu pour démarrer rapidement et pouvoir évoluer vers des applications complexes ».
 - **Back-end .NET (ASP.NET Core)** : implémente en parallèle une API REST équivalente en C#. ASP.NET Core est un *framework open-source, multiplateforme* pour créer des applications web en C#. Il offre de très **hautes performances** (plusieurs millions de requêtes par seconde selon les benchmarks) et renforce la flexibilité du POC en supportant les environnements *Windows et Linux*.
-- **Front-end Next.js** : réalise l'interface web de visualisation et de contrôle, en React avec *rendu côté serveur* (SSR) ou généré (SSG) pour de meilleures performances et SEO. Next.js facilite également la **structure modulaire** du monorepo côté client.
+- **Front-end Next.js** : réalise l'interface web de visualisation et de contrôle, en React avec *rendu côté serveur* (SSR) ou généré (SSG) pour de meilleures performances et SEO. Next.js facilite également la **structure modulaire** du monorepo côté client, en permettant par exemple de partager facilement des composants React entre différentes pages.
 
-Chaque partie a son propre répertoire dans le monorepo (géré par *Yarn Workspaces*), ce qui simplifie l'installation des dépendances et la **mise en commun de bibliothèques** (ex. composants UI ou fonctions utilitaires). Les deux backends s'appuient sur un modèle de **microservices** : ils communiquent via des *API REST* bien définies (*GET* pour récupérer une image, *POST* pour envoyer une image à flouter). Cette séparation *front/back* respecte les principes de conception de la solution applicative (**modularité, découplage**).
+Chaque partie a son propre répertoire dans le monorepo (géré par *Yarn Workspaces*), ce qui simplifie l'installation des dépendances et la **mise en commun de bibliothèques** (ex. composants UI ou fonctions utilitaires) entre le frontend et les backends. Les deux backends s'appuient sur un modèle de **microservices** : ils communiquent via des *API REST* bien définies (*GET* pour récupérer une image, *POST* pour envoyer une image à flouter). Cette séparation *front/back* respecte les principes de conception de la solution applicative (**modularité, découplage**).
 
 - **Développement applicatif**
 
 **Implémentation Python (Flask, OpenCV, YOLOv8)**. Le backend Python utilise **Flask** pour exposer des *endpoints REST*. L'un des points forts est l'intégration du modèle de détection **Ultralytics YOLOv8**. Ce framework offre une interface Python conviviale et permet d'exporter les modèles au format *ONNX* « with just a few lines of code ». Le modèle pré-entraîné (ou affiné sur un jeu de données spécifique) détecte les visages dans l'image ; la librairie **OpenCV** est alors utilisée pour appliquer un *filtre de flou* sur les régions détectées. Par exemple, on charge une image en mémoire, on exécute `results = model.predict(source=im)` pour obtenir les boîtes englobantes, puis on floute chaque zone avec OpenCV (*filtre gaussien*). Cette implémentation exploite le **pipeline Python habituel** (prétraitement des images, passage dans YOLO, post-traitement, renvoi du résultat).
 
-**Implémentation .NET (ASP.NET Core, ONNX Runtime, SkiaSharp)**. En parallèle, un service équivalent a été développé en **C#**. On a importé le modèle YOLOv8 en *ONNX* (voir section technique suivante) pour l'utiliser avec **ONNX Runtime**, permettant l'inférence dans l'environnement .NET. Les images sont traitées avec la librairie **SkiaSharp** (*wrapper .NET* de la bibliothèque *Skia*) pour le dessin et le floutage. Cette combinaison s'est révélée efficace : selon devMobile, l'implémentation SkiaSharp (NickSwardh V2) améliore significativement la **performance de traitement** comparée à d'autres librairies d'image. Ce backend expose les mêmes *endpoints REST* que le service Flask (on pouvait ainsi comparer directement les deux versions). La séparation des backends a nécessité de **synchroniser le modèle** et la logique métier : par exemple, la même taille d'image, la même normalisation et le même ordre de canaux (*RGB vs BGR*) ont dû être appliqués pour que les résultats soient cohérents.
+**Implémentation .NET (ASP.NET Core, ONNX Runtime, SkiaSharp)**. En parallèle, un service équivalent a été développé en **C#**. On a importé le modèle YOLOv8 en *ONNX* (voir section technique suivante) pour l'utiliser avec **ONNX Runtime**, permettant l'inférence dans l'environnement .NET. Les images sont traitées avec la librairie **SkiaSharp** (*wrapper .NET* de la bibliothèque *Skia*) pour le dessin et le floutage. Cette combinaison s'est révélée efficace : selon devMobile, l'implémentation SkiaSharp (NickSwardh V2) améliore significativement la **performance de traitement** comparée à d'autres librairies d'image .NET (p. ex. *ImageSharp*), réduisant fortement le **temps de traitement**. Ce backend expose les mêmes *endpoints REST* que le service Flask (on pouvait ainsi comparer directement les deux versions). La séparation des backends a nécessité de **synchroniser le modèle** et la logique métier : par exemple, la même taille d'image, la même normalisation et le même ordre de canaux (*RGB vs BGR*) ont dû être appliqués pour que les résultats soient cohérents.
 
 **Interface client (Next.js)**. Le frontend Next.js propose une **interface fluide** pour télécharger/visualiser les images, lancer le floutage et afficher le résultat. Les appels aux backends (*Python* ou *.NET*) se font via des requêtes *AJAX* (*fetch*) vers les APIs REST. Next.js fournit un **rendu rapide côté serveur** pour le chargement initial, puis une *application monopage* (SPA) pour les interactions, améliorant l'ergonomie. Grâce au monorepo, le **code UI** (par ex. composants React de visualisation d'image) est partagé facilement entre les différentes pages du site.
 
@@ -589,45 +667,19 @@ Plusieurs **décisions techniques** structurent la solution :
 
 - **Export des modèles au format ONNX** : YOLOv8 permet d'exporter directement en *ONNX*. Ce format standard facilite l'**interopérabilité** (le même modèle ONNX est utilisé par *Python/Flask* et par *ONNX Runtime* en .NET). L'export a nécessité de gérer avec précision les étapes de *pré/post-traitement* (antialiasing au redimensionnement, normalisation dans la bonne plage, ordre des canaux) pour obtenir les mêmes performances que le modèle original en *PyTorch*.
 
-- **Architecture Monorepo (Yarn Workspaces)** : Le dépôt Git comporte plusieurs sous-projets (backends, frontend, librairies communes). *Yarn Workspaces* organise ces projets en un **monorepo unique**, partageant le dossier *node_modules* et évitant de multiplier les dépôts. Cette structure simplifie le **déploiement** (les dépendances sont installées en une fois) et la **maintenance commune** (un package partagé peut être bumpé et testé globalement).
+- **Architecture Monorepo (Yarn Workspaces)** : Le dépôt Git comporte plusieurs sous-projets (backends, frontend, modèles, scripts) gérés par *Yarn Workspaces*. Cela permet de partager facilement des bibliothèques communes et d'éviter la duplication de code. Par exemple, les composants React et les fonctions utilitaires sont définis une seule fois et utilisés à la fois par le frontend et les backends.
 
-- **APIs RESTful** : Chaque service expose des *endpoints REST* (ex. `/upload`, `/process`). Ce choix découple les composants et suit les **bonnes pratiques** de conception logicielle (interopérabilité, simplicité des échanges). Les échanges sont en *JSON* ou en binaire (pour les images), sécurisés par *HTTPS*, avec authentification si nécessaire.
+- **API REST et microservices** : Chaque backend expose une API REST avec des *endpoints* clairs pour la détection et le floutage. Cela permet une communication simple et efficace entre le front-end et les back-ends, tout en respectant les principes de **modularité** et de **découplage**.
 
-- **Technologies plurielles** : Le choix de *Python* et *.NET* en back-end montre la capacité à concevoir des **solutions multi-techniques**. Python est idéal pour les bibliothèques IA (*OpenCV, YOLO*), tandis que .NET apporte un écosystème robuste pour les services web (*ASP.NET Core*) et des **performances élevées**. Next.js, basé sur React, garantit un front-end moderne et performant.
+- **Utilisation de Flask et ASP.NET Core** : Flask a été choisi pour sa légèreté et sa rapidité de développement en Python, tandis qu'ASP.NET Core offre des performances élevées et une grande flexibilité en C#. Ces choix technologiques permettent de tirer parti des forces de chaque langage et framework.
 
-- **Validation des compétences du bloc**
+- **Tests et validation** : Des tests unitaires et d'intégration sont réalisés pour chaque composant (front-end et back-end) afin de garantir le bon fonctionnement de l'ensemble de la chaîne de traitement. Par exemple, des tests automatisés vérifient que le floutage est bien appliqué sur les zones détectées comme sensibles.
 
-Ce projet a permis de valider toutes les **compétences du bloc 4** :
+- **Sécurité et conformité RGPD** : Des mesures sont mises en place pour garantir la sécurité des données traitées et la conformité avec le RGPD. Par exemple, les images sont anonymisées avant tout traitement, et des contrôles d'accès sont appliqués aux APIs.
 
-- **Analyse fonctionnelle** : recueil des besoins *RGPD* et métier, définition du périmètre du floutage automatique, rédaction de spécifications (flux de données, cas d'usage).
+- **Pipeline CI/CD** : Un pipeline d'intégration et de livraison continues est configuré pour automatiser le déploiement des différentes composantes de la solution. Cela permet de garantir des mises à jour rapides et fiables.
 
-- **Modélisation** : élaboration de *diagrammes UML* ou de schémas d'architecture pour formaliser les modules (diagramme de contexte, diagrammes de classes pour les entités de l'application, ou de séquence pour les échanges API).
-
-- **Conception logicielle** : choix d'une architecture *microservices monorepo*, conception de l'API REST, définition des interfaces entre modules (*front/back*). On a également appliqué des **principes SOLID** dans le code (séparation des responsabilités *image/métier/contrôleurs*) et choisi des patrons adaptés (par ex. *Repository* pour la persistance temporaire des images floutées).
-
-- **Développement** : implémentation dans plusieurs langages (*Python, C#, JavaScript*). Chaque composant a fait l'objet d'un **développement itératif** : en Python on a codé l'API Flask et l'intégration de *YOLO/OpenCV*, en C# on a réalisé les contrôleurs *ASP.NET Core*, et en Next.js les pages React. Les travaux ont impliqué l'**intégration de bibliothèques externes** (*Ultralytics YOLO, ONNX Runtime, SkiaSharp*, etc.).
-
-- **Tests** : création de *tests unitaires* pour le traitement d'image (vérifier que les fonctions de floutage renvoient bien une image modifiée) et *tests d'intégration* (via *Postman* ou des scripts automatisés) pour valider les endpoints REST. Par exemple, on a testé que l'API renvoie le même nombre de visages détectés après conversion ONNX. Des **tests UI** (on peut tester l'interface Next.js) ont également été réalisés pour s'assurer de l'ergonomie.
-
-- **Intégration** : mise en place d'un pipeline d'**intégration continue** (CI) qui clone le monorepo, installe les dépendances (via `yarn install` dans le workspace), compile le projet .NET, lance les tests Python et .NET et déploie un build du front-end. L'intégration *front/back* a consisté à faire communiquer les interfaces Next.js avec les API en simulant des **appels réels** (tests de bout en bout).
-
-Chaque étape du projet a donc mis en pratique les **savoir-faire du bloc 4**, de l'analyse initiale jusqu'à la livraison de la solution fonctionnelle.
-
-- **Contraintes non fonctionnelles**
-
-Plusieurs **exigences non-fonctionnelles** ont été prises en compte :
-
-- **Performance** : l'application doit traiter les images rapidement pour une bonne expérience utilisateur. Le choix d'*ASP.NET Core* (très haute performance) et de *SkiaSharp* (traitement C# rapide) répond à cette exigence. En Python, on veille à optimiser le pipeline (utiliser le GPU pour l'inférence YOLO si disponible, compresser les images en sortie).
-
-- **Scalabilité** : la structure *microservices* (API REST *stateless*) permet de faire évoluer indépendamment les composants. On peut déployer plusieurs instances des backends derrière un *load-balancer*, sans coupler les états. Le monorepo facilite également le **dimensionnement** (un nouveau service ou client peut être ajouté dans le même dépôt).
-
-- **Ergonomie** : l'interface Next.js a été conçue pour être claire et réactive. Le *rendu côté serveur* accélère l'affichage initial, et une **gestion des états** (chargement, erreurs) a été implémentée pour guider l'utilisateur. Les options de floutage (intensité, types d'objets masqués) sont configurables.
-
-- **Sécurité** : outre la conformité RGPD, le code vérifie les entrées (taille maximale des fichiers, types autorisés) pour éviter les *injections* ou *débordements*. Les APIs sont protégées (*authentification/autorisation* en place). Les communications se font en *HTTPS*. La manipulation des images respecte la **vie privée** : aucun fichier non flouté n'est stocké durablement côté serveur.
-
-- **Anonymisation des données** : comme évoqué, l'approche choisie (*floutage irréversible*) garantit que les données personnelles sont **anonymisées au sens du RGPD**. Seules les images traitées (floutées) sont conservées temporairement. Ce traitement a été validé par l'analyse RGPD, confirmant que les photos anonymisées sortent du périmètre légal et peuvent être conservées librement.
-
-Ces contraintes ont orienté les **choix technologiques** et de développement, assurant un équilibre entre qualité de service et conformité réglementaire.
+Chaque choix technique a été documenté et justifié dans le cadre du projet, en veillant à ce que l'ensemble des parties prenantes ait une compréhension claire de l'architecture et des technologies utilisées.
 
 - **Difficultés rencontrées et solutions**
 

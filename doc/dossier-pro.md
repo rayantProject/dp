@@ -1,5 +1,5 @@
 
-# I. Presentation de l'environnement de travail 
+ 
 
 ## A. Présentation d'entreprise :
 **Econocom** est un groupe européen spécialisé dans les services de transformation numérique, fondé en 1974 par Jean-Louis Bouchard sous le nom d'**Europe Computer Systèmes (ECS)**. D'abord axée sur la location de matériel informatique, l'entreprise a progressivement étendu son périmètre par des acquisitions stratégiques et une diversification de ses offres. Aujourd'hui, Econocom est une **Société Européenne** cotée sur Euronext, dont le siège social est à Bruxelles. Forte de 50 ans d'existence, elle figure parmi les acteurs de premier plan du numérique en Europe, affichant un modèle d'affaires unique combinant technologie et financement. La présentation suivante détaille son **historique**, son **positionnement stratégique**, son **organisation**, ses **activités et expertises**, ses **chiffres clés**, ses **clients, partenaires et secteurs**, ainsi que ses **valeurs, initiatives RSE** et quelques **projets/innovations notables**, dans un style professionnel et factuel.
